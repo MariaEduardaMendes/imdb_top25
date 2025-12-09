@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title":"Um Sonho de Liberdade",
+        "year":1994,
+        "rating":9.3
+    },
+    {
+        "id":2,
+        "title":"O Poderoso Chef\u00e3o",
+        "year":1972,
+        "rating":9.2
+    },
+    {
+        "id":3,
+        "title":"Batman: O Cavaleiro das Trevas",
+        "year":2008,
+        "rating":9.1
+    }
+]

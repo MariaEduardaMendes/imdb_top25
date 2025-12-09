@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "title":"Friends",
+        "year":1994,
+        "seasons":10,
+        "episodes":236
+    },
+    {
+        "id":2,
+        "title":"Grey's Anatomy",
+        "year":2005,
+        "seasons":21,
+        "episodes":433
+    }
+]
